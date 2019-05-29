@@ -20,7 +20,7 @@ Follow me at
 [Wechat]()
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more informations see [projects list](http://env-newapp.5bfvnzwiw6.us-west-2.elasticbeanstalk.com/).
 
 ### Support or Contact
 
