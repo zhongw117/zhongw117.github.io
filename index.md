@@ -24,4 +24,4 @@ For more informations see [projects list](http://env-newapp.5bfvnzwiw6.us-west-2
 
 ### Support or Contact
 
-Contact me at wilsonzhong1998@gmail.com
+wilsonzhong1998@gmail.com
