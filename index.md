@@ -16,8 +16,8 @@
 
 
 Follow me at
-[Linkedin](https://www.linkedin.com/in/wei-zhong-14195bb8/) and ![Image](https://media.licdn.com/dms/image/C5603AQGWrFEE8xBqBQ/profile-displayphoto-shrink_200_200/0?e=1564617600&v=beta&t=qVzVhSfFm-hI23hm6qAjwmOR0ZT3sXzJTClY12peUH8)
-.[Wechat].
+[Linkedin](https://www.linkedin.com/in/wei-zhong-14195bb8/) and 
+[Wechat]()
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
