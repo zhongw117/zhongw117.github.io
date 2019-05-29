@@ -20,7 +20,7 @@ Follow me at
 [Wechat](images/wechatQRcode.jpg)
 
 
-For more informations see [projects list](http://env-newapp.5bfvnzwiw6.us-west-2.elasticbeanstalk.com/).
+For more information see [projects list](http://env-newapp.5bfvnzwiw6.us-west-2.elasticbeanstalk.com/).
 
 ### Support or Contact
 
