@@ -1,33 +1,26 @@
 ## Welcome to Wilson's web
 
 
-### Markdown
+### Summary of qualifications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Rich experience in Data Analyzing,  Data mining, Text mining,  Machine learning
+- Proficient in mathematics and computer technology, Python, MATLAB, Jupyter.
+- Be good at machine algorithms like SVM, RVM, ANN, HMM, LR, Random Forest, and so on.
+- Fluent with Python in using its libraries of matplotlib, scikit-learn, NLTK, Gensim, pandas, scrapy, sPacy, and so on.
+- Be good at database of MySQL, sqlite3, elasticsearch.
+- Be familiar to deploy web application and build ML modeling using AWS
+- Have experience in building website using Django, javascript and restful API. 
+- Be familiar with Kafka and distributed scraping. 
+- Be fluent with Ubuntu and Windows OS. 
+- Proficient in Git and GitHub
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Follow me at
+[Linkedin](https://www.linkedin.com/in/wei-zhong-14195bb8/) and ![Image](https://media.licdn.com/dms/image/C5603AQGWrFEE8xBqBQ/profile-displayphoto-shrink_200_200/0?e=1564617600&v=beta&t=qVzVhSfFm-hI23hm6qAjwmOR0ZT3sXzJTClY12peUH8)
+.[Wechat].
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhongw117/zhongw117.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
