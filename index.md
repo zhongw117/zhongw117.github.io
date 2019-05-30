@@ -20,7 +20,8 @@ Follow me at
 [Wechat]<img src="images/wechatQRcode.jpg" width="40%">
 
 
-For more information see [projects list](http://env-newapp.5bfvnzwiw6.us-west-2.elasticbeanstalk.com/polls/).
+All projects of web applications and ML models will be shown following: [projects list](http://env-newapp.5bfvnzwiw6.us-west-2.elasticbeanstalk.com/polls/).
+
 
 ### Support or Contact
 
