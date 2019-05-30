@@ -17,7 +17,7 @@
 
 Follow me at
 [Linkedin](https://www.linkedin.com/in/wei-zhong-14195bb8/) and 
-[Wechat](images/wechatQRcode.jpg | width=100)
+[Wechat]<img src="images/wechatQRcode.jpg" width="40%">
 
 
 For more information see [projects list](http://env-newapp.5bfvnzwiw6.us-west-2.elasticbeanstalk.com/).
