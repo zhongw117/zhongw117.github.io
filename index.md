@@ -13,6 +13,7 @@
 - Proficient in Git and GitHub
 
 See more github projects: [Repositories](https://github.com/zhongw117?tab=repositories)
+
 Follow me at
 [Linkedin](https://www.linkedin.com/in/wei-zhong-14195bb8/) and
 [Wechat]
