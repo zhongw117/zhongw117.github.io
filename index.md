@@ -17,6 +17,7 @@
 
 Follow me at
 [Linkedin](https://www.linkedin.com/in/wei-zhong-14195bb8/) and 
+
 [Wechat]<img src="images/wechatQRcode.jpg" width="20%">
 
 
