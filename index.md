@@ -17,7 +17,7 @@
 
 Follow me at
 [Linkedin](https://www.linkedin.com/in/wei-zhong-14195bb8/) and 
-[Wechat]<img src="images/wechatQRcode.jpg" width="40%">
+[Wechat]<img src="images/wechatQRcode.jpg" width="20%">
 
 
 All projects of web applications and ML models will be shown following: [projects list](http://env-newapp.5bfvnzwiw6.us-west-2.elasticbeanstalk.com/polls/).
