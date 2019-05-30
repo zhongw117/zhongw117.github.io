@@ -1,4 +1,4 @@
-### Introduction
+
 ### Summary of qualifications
 
 - Rich experience in Data Analyzing,  Data mining, Text mining,  Machine learning
