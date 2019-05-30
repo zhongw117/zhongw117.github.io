@@ -1,5 +1,3 @@
-## Welcome to Wilson's web
-
 
 ### Summary of qualifications
 
