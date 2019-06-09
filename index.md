@@ -21,7 +21,7 @@ Follow me at
 <img src="images/qrcode.png" width="20%">
 
 
-All projects of web applications and ML models will be shown following: [projects list](http://env-newapp.5bfvnzwiw6.us-west-2.elasticbeanstalk.com/polls/).
+All projects of web applications and ML models will be shown following: [projects list](http://env-newapp.5bfvnzwiw6.us-west-2.elasticbeanstalk.com/).
 
 
 ### Support or Contact
