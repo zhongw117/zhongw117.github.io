@@ -22,6 +22,7 @@ Follow me at
 
 
 All projects of web applications and ML models will be shown following: [projects list](http://env-newapp.5bfvnzwiw6.us-west-2.elasticbeanstalk.com/).
+
 [Personal site(Beta)](https://enigmatic-ravine-21339.herokuapp.com/) 
 
 
